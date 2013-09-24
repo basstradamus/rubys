@@ -1,3 +1,5 @@
+
+
 class Thing
 	Max_number_of_things = 100
 	
