@@ -36,3 +36,4 @@ puts sword.inspect
 puts Thing::Max_number_of_things
 
 print( "Goodbye #{%x{calc}}" )
+
