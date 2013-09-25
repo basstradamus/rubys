@@ -1,1 +1,1 @@
-Another value check
+Another value check in krzysztof branch
