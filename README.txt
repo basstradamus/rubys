@@ -1,1 +1,2 @@
+Test
 Another value check in krzysztof branch
