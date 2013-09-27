@@ -1,1 +1,2 @@
 Info file from master branch
+2nd line into info file
