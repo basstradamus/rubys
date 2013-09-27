@@ -1,0 +1,1 @@
+print("so " + " and also from MyOtherClass")
